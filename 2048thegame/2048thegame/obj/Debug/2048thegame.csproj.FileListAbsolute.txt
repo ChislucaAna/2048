@@ -1,0 +1,10 @@
+C:\Users\anach\source\repos\2048thegame\2048thegame\bin\Debug\2048thegame.exe.config
+C:\Users\anach\source\repos\2048thegame\2048thegame\bin\Debug\2048thegame.exe
+C:\Users\anach\source\repos\2048thegame\2048thegame\bin\Debug\2048thegame.pdb
+C:\Users\anach\source\repos\2048thegame\2048thegame\obj\Debug\2048thegame.csproj.AssemblyReference.cache
+C:\Users\anach\source\repos\2048thegame\2048thegame\obj\Debug\_2048thegame.Form1.resources
+C:\Users\anach\source\repos\2048thegame\2048thegame\obj\Debug\_2048thegame.Properties.Resources.resources
+C:\Users\anach\source\repos\2048thegame\2048thegame\obj\Debug\2048thegame.csproj.GenerateResource.cache
+C:\Users\anach\source\repos\2048thegame\2048thegame\obj\Debug\2048thegame.csproj.CoreCompileInputs.cache
+C:\Users\anach\source\repos\2048thegame\2048thegame\obj\Debug\2048thegame.exe
+C:\Users\anach\source\repos\2048thegame\2048thegame\obj\Debug\2048thegame.pdb
